@@ -1,0 +1,22 @@
+@import url(reset.css);
+
+h1{
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 28px;
+color: #27D2AC;
+padding-bottom: 5px;
+}
+h2{
+color: #000000;
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+}
+div{
+  padding: 10px;
+}
